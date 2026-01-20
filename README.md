@@ -7,7 +7,7 @@ This project is intended for demonstration, learning, and portfolio purposes.
 
 Below is the visual representation of the complete workflow:
 
-![Email Sender AI Agent Workflow]([screenshots/email-sender-ai-agent-workflow.png](https://github.com/AbeshRahman/N8N-Email-Sender-AI-Agent-Workflow/blob/main/Email%20Sender%20AI%20Agent%20Workflow.png))
+![Email Sender AI Agent Workflow]([screenshots/email-sender-ai-agent-workflow.png](https://github.com/AbeshRahman/N8N-Email-Sender-AI-Agent-Workflow/blob/main/Email%20Sender%20AI%20Agent%20Workflow.png)
 
 ## Workflow Description
 
